@@ -1,0 +1,4 @@
+//Creat collection
+
+db.CreateCollection('orders');
+
